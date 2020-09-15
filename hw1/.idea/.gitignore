@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\shavros\Documents\5 курс\1 сем\Принципы проектирования и дизайна ПО\sbt-1sem-PO-Shavrin\hw1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
